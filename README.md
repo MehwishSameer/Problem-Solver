@@ -10,4 +10,4 @@ This project consists of 7 files other than pre-compiled headers. These files ar
 - main file
 Most of the assignments include pointers either its necessary or not, just for the sake of practice. You can do it without pointers as well. We have a main file in which we have a switch statement that executes the problem according to the user entry. The header files contain a prototype of all the functions that are to be called in main. The code of these functions is written in the assignments file respectively.
 4. Hardware/Software Requirements:
-Dev C++
+- Dev C++
