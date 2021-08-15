@@ -1,4 +1,7 @@
 # Problem-Solver
+
+![Capture](https://user-images.githubusercontent.com/67097151/129464834-21800c23-df1b-453e-a781-3b936ae6463d.JPG)
+
 1. Introduction:
 
 Problem Solver is a project that is written in C. It is a collection of all the basic problems that we get in our university Programming Fundamentals course as assignments. 
